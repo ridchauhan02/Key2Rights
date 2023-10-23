@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664288690321",
+    "project_id": "key2rightpro",
+    "storage_bucket": "key2rightpro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664288690321:android:b810cecdfcf3b0c148ff30",
+        "android_client_info": {
+          "package_name": "com.example.key2rights"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz0MJz4-59LseHXUyQWXaKIJkN2TCdgEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
